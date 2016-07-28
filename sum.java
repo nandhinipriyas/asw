@@ -11,7 +11,7 @@ public class encry {
 	       
 	        num=sc.nextInt();
 	       
-	        while(num>0)
+	        while(num>9)
 	        {
 	        	sum=sum+(num%10);
 	        	num=num/10;
